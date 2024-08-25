@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aninz123
-- 👀 I’m interested in Python,Data science,Full-stack Developer
-- 🌱 I’m currently learning Python,Data science,DevOps
+- 👀 I’m interested in Python,Data engineer,Full-stack Developer
+- 🌱 I’m currently learning Data platforms, Advance SQL, DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kittanai.ka@gmail.com
 
