@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aninz123
+- 👋 Hi, I’m Kittanai 
 - 👀 I’m interested in Python,Data engineer,Full-stack Developer
 - 🌱 I’m currently learning Data platforms, Advance SQL, DevOps
 - 💞️ I’m looking to collaborate on ...
